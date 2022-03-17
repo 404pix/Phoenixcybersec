@@ -3076,7 +3076,6 @@ html.rd-navbar-fixed-linked .page {
 }
 
 .swiper-container-fade.swiper-container-free-mode .swiper-slide {
-	transition-timing-function: ease-out;
 }
 
 .swiper-container-fade .swiper-slide {
@@ -3306,7 +3305,6 @@ html.rd-navbar-fixed-linked .page {
 		font-family: "Source Code Pro", Monaco, Consolas, "Liberation Mono", "Courier New", monospace;
 		font-weight: 700;
 		opacity: 0;
-		transition: all 0.3s ease-in-out;
 	}
 	.swiper-slider-1 .swiper-pagination .swiper-pagination-bullet::after {
 		content: '';
