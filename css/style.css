@@ -12048,13 +12048,13 @@ h2 + .divider-primary {
 }
 
 html .button-primary, html .button-primary:focus {
-	color: #ffffff;
+	color: black;
 	background-color: #4ac4cf;
 	border-color: #4ac4cf;
 }
 
 html .button-primary:hover, html .button-primary:active, html .button-primary.active {
-	color: #4ac4cf;
+	color: black;
 	background-color: #ffffff;
 	border-color: #ffffff;
 }
@@ -12274,10 +12274,12 @@ html .button-primary.button-ujarak::before {
 
 .button-lg {
 	padding: 17px 64px;
-	font-size: 14px;
+	font-size: 20px;
 	line-height: 1.5;
 }
-
+b{
+	
+}
 .button-xl {
 	padding: 16px 50px;
 	font-size: 18px;

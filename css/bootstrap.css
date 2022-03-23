@@ -460,7 +460,7 @@ mark,
 	background-color: #fff;
 	border: 1px solid #dee2e6;
 	border-radius: 0.25rem;
-	max-width: 100%;
+	width: 60%;
 	height: auto;
 }
 
@@ -6401,9 +6401,7 @@ button.close {
 	padding-left: 0.5rem !important;
 }
 
-.p-3 {
-	padding: 1rem !important;
-}
+
 
 .pt-3,
 .py-3 {
