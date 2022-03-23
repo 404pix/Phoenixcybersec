@@ -2945,6 +2945,10 @@ html.rd-navbar-fixed-linked .page {
 	left: -2px;
 }
 
+.p{
+	color: white;
+}
+
 .rd-navbar-modern.rd-navbar-static .rd-menu {
 	margin-top: 20px;
 }
